@@ -3,12 +3,12 @@
 ## what I was trying to do
 - I was curious to figure out if I could train the computer to write an Indiana Jones script. To do this, you put together a file to show the computer what such a script looks like. This is the 'training' file, or the input.txt
 - I googled until I found the scripts. I used Raiders, Temple of Doom, and Last Crusade
-- reading the documentation for [char-rnn](https://github.com/karpathy/char-rnn) I realized that was too small, so I added Goonies and the Brendan Frasier Mummy. note to self, add links to sources here!
+- reading the documentation for [char-rnn](https://github.com/karpathy/char-rnn) I realized that was too small, so I added Goonies and the Brendan Frasier Mummy. 
 
 ## what I did
 - I followed the instructions at https://github.com/karpathy/char-rnn to download and install the char-rnn package
 - the last instruction, about sourcing, I had to re-run when I logged back into dhbox
-- today's history.txt file is [history.txt](history.txt)
+- today's history.txt file is [june21-todays-history-file.txt](june21-todays-history-file.txt)
 
 ## things that were hard
 - getting the data. I went to gist.github.com and made a file, [input.txt](https://gist.github.com/shawngraham/af1edaa5b40be09d643a4700bb2150af)
