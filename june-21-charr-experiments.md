@@ -22,3 +22,5 @@
 ## thoughts on where to go next
 
 this ends the example. You could link to annotations you made, things you've seen, work that this entry is in dialog with, and so on. 
+
+Note what is in this repo: a description of what I was up to; the results of my `$ history > todayshistory.txt` command, the output of what I was trying to do, links to other things I used/created in the course of the experiment. You can make one repo with many folders, or many repos of just one folder, but whatever you do, try to keep everything together in a logical manner.
