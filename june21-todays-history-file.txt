@@ -51,3 +51,6 @@
    49  th sample.lua cv/lm_lstm_epoch7.75_1.0047.t7 -gpuid -1
    50  history
    51  history > today.txt
+   52  nano today.txt
+   53  th sample.lua cv/lm_lstm_epoch7.75_1.0047.t7 -gpuid -1 > script.txt
+   54  history > today.txt
