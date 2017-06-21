@@ -1,0 +1,53 @@
+   today's history starts at line 35; why is that?
+   
+    1  ls
+    2  pwd
+    3  ls
+    4  sudo apt-get install texlive
+    5  ls
+    6  curl https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+    7  ls
+    8  apt-get pandoc
+    9  sudo dpkg -i $DEB
+   10  sudo dpkg -i https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+   11  wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+   12  ls
+   13  sudo dpkg -i pandoc-1.19.2.1-1-amd64.deb
+   14  ls
+   15  touch readme.md
+   16  pico readme.md
+   17  nano readme.md
+   18  pico readme.md
+   19  vim readme.md
+   20  git clone http://github.com/shawngraham/presentations
+   21  ls
+   22  git clone https://github.com/shawngraham/hist3907o.git
+   23  ls
+   24  pwd
+   25  pandoc -o readme.html readme.md
+   26  git remote add origin 
+   27  git remote add origin https://github.com/shawngraham/testingstuff.git
+   28  git config remote.origin.url https://github.com/shawngraham/testingstuff.git
+   29  git pull -u origin master
+   30  git push -u origin master
+   31  ls
+   32  cd char-rnn
+   33  ls
+   34  cd cv
+   35  ls
+   36  cd ..
+   37  $ th sample.lua cv/lm_lstm_epoch7.75_1.0047.t7 -gpuid -1
+   38  cd ..
+   39  ls
+   40  cd torch
+   41  ls
+   42  source ~/.bashrc
+   43  cd ..
+   44  ls
+   45  cd char-rnn
+   46  $ th sample.lua cv/lm_lstm_epoch7.75_1.0047.t7 -gpuid -1
+   47  torch -version
+   48  th -version
+   49  th sample.lua cv/lm_lstm_epoch7.75_1.0047.t7 -gpuid -1
+   50  history
+   51  history > today.txt
